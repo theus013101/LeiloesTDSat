@@ -11,3 +11,5 @@ Este projeto é um sistema informatizado para auxiliar uma casa de leilões em s
 - CadastroVIEW definida como tela principal
 
 - Botão Salvar cadastrando item no banco
+
+- Mensagem de sucesso/erro no cadastro
