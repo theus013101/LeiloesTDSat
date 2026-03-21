@@ -9,3 +9,5 @@ Este projeto é um sistema informatizado para auxiliar uma casa de leilões em s
 
 ## Funcionalidades implementadas
 - CadastroVIEW definida como tela principal
+
+- Botão Salvar cadastrando item no banco
