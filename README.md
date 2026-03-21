@@ -6,3 +6,10 @@ Este projeto é um sistema informatizado para auxiliar uma casa de leilões em s
 - Java
 - MySQL
 - Git/GitHub
+
+## Funcionalidades implementadas
+
+- CadastroVIEW definida como tela principal
+- Botão Salvar cadastrando item no banco
+- Mensagem de sucesso/erro no cadastro
+- Listagem de itens cadastrados
